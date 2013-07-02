@@ -1,0 +1,20 @@
+==== {{title}}
+
+// By Your Name (github handle)
+
+===== Problem
+
+You want to ...
+
+===== Solution
+
+Use X to do Y
+
+[source,clojure]
+----
+;; (code to demonstrate solution)
+----
+
+===== Discussion
+
+Additional discussion about important aspects of the solution.

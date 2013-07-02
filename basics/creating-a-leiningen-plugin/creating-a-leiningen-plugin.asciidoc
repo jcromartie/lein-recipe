@@ -1,0 +1,11 @@
+==== Creating a Leiningen Plugin
+
+// By 
+
+===== Problem
+
+You want to ...
+
+===== Solution
+
+===== Discussion
